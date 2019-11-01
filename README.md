@@ -1,8 +1,8 @@
-# repositories-reactjs-app
+# GitHub Repositories using ReactJS
 
 <p align="center"><img src="https://media.licdn.com/dms/image/C4D22AQG_mILl0Ej69g/feedshare-shrink_1280/0?e=1575504000&v=beta&t=GejBSeYXjtTrkt1kS2Zs2LvRubKmqIW_NSKeXdUcnbk"></p>
 
-# GitHub Repositories using ReactJS
+# Description
 
 This is a simple web application consming GitHub's public API and list all issues of all added repositories.
 
