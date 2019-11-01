@@ -122,6 +122,12 @@ export const IssueFilter = styled.div`
       background: #576574;
       color: #fff;
     }
+
+    &:hover {
+      background: #7159c1;
+      transition: ease-in 0.2s;
+      color: #fff;
+    }
   }
 `;
 
@@ -141,6 +147,12 @@ export const PageActions = styled.div`
     &:disabled {
       opacity: 0.35;
       cursor: not-allowed;
+    }
+
+    &:hover {
+      background: #7159c1;
+      transition: ease-in 0.2s;
+      color: #fff;
     }
   }
 `;
